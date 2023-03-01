@@ -1,0 +1,44 @@
+.heading3
+{
+    color:red;
+    font-style: italic;
+}
+
+.list
+{
+    color: rgb(139, 42, 42);
+    font-size:larger;
+    
+}
+.linespace
+{
+    line-height: 1cm;
+}
+
+#deletedtext
+{
+    text-decoration: line-through;
+}
+
+#bgcolor
+{
+    background-color: yellow;
+}
+
+#underline
+{
+    text-decoration: underline;
+}
+
+.letterspace
+{
+    letter-spacing:3px;
+}
+
+.anchor
+{
+    background-color: yellow; 
+    color:red;
+    text-decoration: none;
+
+}
